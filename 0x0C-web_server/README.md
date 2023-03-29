@@ -3,7 +3,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX**. It a
 
 ## Technologies
 
-* Tested on Ubuntu 14.04 LTS
+* Tested on Ubuntu 16.04 LTS
 
 ## Files
 
