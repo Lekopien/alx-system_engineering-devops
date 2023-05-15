@@ -1,6 +1,6 @@
 # Creates a file in /tmp
 file { '/tmp/School':
-  ensure  => "file",
+  ensure  => 'file',
   path    => '/tmp/School',
   mode    => '0744',
   owner   => 'www-data',
